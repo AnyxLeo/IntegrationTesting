@@ -19,7 +19,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TennisBookings.Merchandise.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimulatedCloudSdk", "src\external\SimulatedCloudSdk\SimulatedCloudSdk.csproj", "{82701DF1-5D4B-42C7-8D6F-B53479F77957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisBookings.Merchandise.Api.IntegrationTests", "test\TennisBookings.Merchandise.Api.IntegrationTests\TennisBookings.Merchandise.Api.IntegrationTests.csproj", "{5C437761-7B06-4962-94D3-366A6FD668D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TennisBookings.Merchandise.Api.IntegrationTests", "test\TennisBookings.Merchandise.Api.IntegrationTests\TennisBookings.Merchandise.Api.IntegrationTests.csproj", "{5C437761-7B06-4962-94D3-366A6FD668D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3166D468-47A1-4EF8-AA9B-3DBA4191CD2F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
